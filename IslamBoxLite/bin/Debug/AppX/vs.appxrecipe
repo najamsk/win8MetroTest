@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NAJAM8</Machine>
+    <WindowsUser>najam</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>25E358BA7D2F82B90E605402374AD3DF1C4E614CD542A1F1A9FF7B9AC971A1ED</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>cdeed3c2-70a9-4df8-86b3-2eda8e51a49a_1.0.0.0_neutral__f1wpsn99prsb8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>cdeed3c2-70a9-4df8-86b3-2eda8e51a49a_f1wpsn99prsb8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>cdeed3c2-70a9-4df8-86b3-2eda8e51a49a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=najam</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <Modified>2012-05-25T12:05:42.930</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2012-05-25T11:31:42.837</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\css\homePage.css">
+      <PackagePath>css\homePage.css</PackagePath>
+      <Modified>2012-05-25T11:59:22.476</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2012-05-25T11:31:42.810</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\html\homePage.html">
+      <PackagePath>html\homePage.html</PackagePath>
+      <Modified>2012-05-29T08:59:49.589</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <Modified>2012-02-14T03:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <Modified>2012-02-14T03:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <Modified>2012-02-14T03:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <Modified>2012-02-14T03:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\js\data.js">
+      <PackagePath>js\data.js</PackagePath>
+      <Modified>2012-05-28T08:30:54.481</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2012-05-25T11:31:42.666</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2012-05-25T11:31:42.961</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\js\homePage.js">
+      <PackagePath>js\homePage.js</PackagePath>
+      <Modified>2012-05-25T11:31:42.963</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-05-25T12:05:42.762</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS\0.6\">
+      <Name>Microsoft.WinJS.0.6.Debug</Name>
+      <Version>0.6.8229.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.0.6.Debug, MinVersion=0.6.8229.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS\0.6\Microsoft.WinJS.0.6.Debug.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

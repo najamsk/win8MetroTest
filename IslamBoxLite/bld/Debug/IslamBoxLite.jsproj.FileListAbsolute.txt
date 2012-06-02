@@ -1,0 +1,13 @@
+C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\bin\Debug\resources.pri
+C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\bin\Debug\AppxManifest.xml
+C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\bin\Debug\IslamBoxLite.build.appxrecipe
+C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\bld\Debug\priconfig.xml
+C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\bld\Debug\layout.resfiles
+C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\bld\Debug\resources.resfiles
+C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\bld\Debug\pri.resfiles
+C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\bld\Debug\LanguageQualifiers.txt
+C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\bld\Debug\ProjectArchitectures.txt
+C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\bld\Debug\priconfig.xml.intermediate
+C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\bld\Debug\layout.resfiles.intermediate
+C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\bld\Debug\resources.resfiles.intermediate
+C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\bld\Debug\pri.resfiles.intermediate

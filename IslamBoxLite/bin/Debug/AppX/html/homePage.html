@@ -1,0 +1,133 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>homePage</title>
+    
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.0.6/css/ui-dark.css" rel="stylesheet">
+    <script src="//Microsoft.WinJS.0.6/js/base.js"></script>
+    <script src="//Microsoft.WinJS.0.6/js/ui.js"></script>
+    <script type="text/javascript" src="/js/data.js"></script>
+    <link href="/css/default.css" rel="stylesheet">
+    <link href="/css/homePage.css" rel="stylesheet">
+    <script src="/js/homePage.js"></script>
+    <style>
+        .homepage {
+            
+            background: #ff6a00 url("http://farm8.staticflickr.com/7028/6776564175_c68c17ec48_b.jpg") no-repeat top left;
+            /*background: #ff6a00 url("http://farm8.staticflickr.com/7026/6681150065_6739984258_o.jpg") no-repeat top left;*/
+            background-size: cover;
+        }
+        .product {
+            width:  220px;
+            min-height:  120px;
+            border:  #333 solid 1px;
+            font-size:  x-large;
+            background-color: rgba(0,0,0,.5);
+            text-align: center;
+            margin: 0 0 10px 0;
+           
+        }
+            .product img {
+                
+            }
+        .product-name {
+            display: block;
+            font-size: 14px;
+        }
+        .product-price {
+            font-size: 12px;
+            display: block;
+        }
+        .padder {
+            padding: 10px;
+        }
+    </style>
+    
+</head>
+<body>
+    <!-- The content that will be loaded and displayed. -->
+    <div class="fragment homepage">
+        <header aria-label="Header content" role="banner">
+            <button class="win-backbutton" aria-label="Back" disabled></button>
+            <h1 class="titlearea win-type-ellipsis">
+                <span class="pagetitle">IslamBox Lite!</span>
+            </h1>
+        </header>
+        <section aria-label="Main content" role="main">
+
+
+
+            <!-- Item template 
+            <div id="imageOverlayAlbumTemplate" data-win-control="WinJS.Binding.Template">
+                <div class="imageOverlayAlbum">
+                    <img class="imageOverlayAlbumImage" data-win-bind="src: imgSrc"/>
+                    <div class="imageOverlayAlbumOverlay">
+                        <h3 class="imageOverlayAlbumTextAlbum" data-win-bind="innerText: desc"></h3>
+                        <div class="imageOverlayAlbumTextArtist" data-win-bind="innerText: price"></div>
+                    </div>
+                </div>
+            </div>
+            
+            <div id="productGroupHeaderTemplate" data-win-control="WinJS.Binding.Template">
+                <div class="productGroupHeader">
+                    <h1 data-win-bind="innerText: title"></h1>
+                </div>
+            </div>
+                -->
+
+            <!-- ListView containing photos for sale 
+            <div id="photoList" data-win-control="WinJS.UI.ListView" data-win-options="{
+                itemDataSource: myPhotoData.dataSource,
+               itemTemplate: select('#imageOverlayAlbumTemplate'),
+                layout: {type:WinJS.UI.GridLayout},
+                selectionMode: 'multi',
+                tap: 'invoke',
+                groupDataSource:groupedProducts.groups.dataSource,
+                groupHeaderTemplate:select('#productGroupHeaderTemplate')
+
+                }" style="width: 70%;">
+
+            </div>     
+
+-->
+
+
+            <div id="productTemplate" data-win-control="WinJS.Binding.Template">
+                <div class="product">
+                    <div class="padder">
+                    <img class="imageOverlayAlbumImage" data-win-bind="src: imgSrc"/>
+                    <span data-win-bind="innerText:desc" class="product-name"></span>
+                    <span data-win-bind="innerText:price" class="product-price"></span>
+                    </div>
+                </div>
+            </div>
+ 
+            <div id="productGroupHeaderTemplate" data-win-control="WinJS.Binding.Template">
+                <div class="productGroupHeader">
+                    <h1 data-win-bind="innerText: title"></h1>
+                </div>
+            </div>
+            <div data-win-control="WinJS.UI.ListView"
+                data-win-options="{
+                    itemDataSource:ListViewDemos.products.dataSource,
+                    itemTemplate:select('#productTemplate'),
+                    groupDataSource:ListViewDemos.products.groups.dataSource,
+                    groupHeaderTemplate:select('#productGroupHeaderTemplate'),
+                    layout: {type: WinJS.UI.GridLayout}
+                }" style="width: 88%;">
+            </div>
+
+            <h2>video</h2>
+            <video src="http://ib7.islambox.tv/live/peacetv.stream" controls autoplay></video>
+            <video width="480" height="270" controls="" poster="http://content.bitsontherun.com/thumbs/nfSyO85Q-320.jpg">
+                <source src="http://ib7.islambox.tv/live/aljazeeraeng.stream/playlist.m3u8" type="application/vnd.apple.mpegurl">
+                
+                <source src="http://ib7.islambox.tv/live/aljazeeraeng.stream/playlist.m3u8" type="video/mp4">
+                <p class="warning">Your browser does not support HTML5 video.</p>
+            </video>
+        </section>
+    </div>
+</body>
+</html>

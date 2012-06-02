@@ -1,0 +1,82 @@
+﻿.homepage section[role=main] {
+    margin-left: 120px;
+}
+
+@media screen and (-ms-view-state: snapped) {
+    .homepage section[role=main] {
+        margin-left: 20px;
+    }
+}
+
+@media screen and (-ms-view-state: portrait) {
+    .homepage section[role=main] {
+        margin-left: 100px;
+    }
+}
+
+
+/* overall list dimensions */
+#imageOverlayAlbum
+{
+    width: 1366px;
+    height: 578px;
+}
+
+/*-------------------------------------------------------------------------------------------*/
+/* imageOverlay-album - used in Media player album view */
+/*-------------------------------------------------------------------------------------------*/
+    /* starting margin */
+    #imageOverlayAlbum .win-horizontal.win-viewport .win-surface
+    {
+        margin: 0px 120px;
+    }
+
+    /* individual item dimensions */
+    .imageOverlayAlbum
+    {
+        width: 130px;
+        height: 130px;
+        overflow: hidden;
+        display: -ms-grid;
+        -ms-grid-columns: 1fr;
+        -ms-grid-rows: 1fr;
+    }
+
+        /* image */
+        .imageOverlayAlbum .imageOverlayAlbumImage
+        {
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+        }
+
+        /* overlay properties */
+        .imageOverlayAlbum .imageOverlayAlbumOverlay
+        {
+            -ms-grid-row-align: end;
+            background-color: rgba(0,0,0,0.65);
+            height: 50px;
+            overflow: hidden;
+            padding: 0px 10px 0px 10px;
+        }
+
+            /* text line 1 */
+            .imageOverlayAlbum .imageOverlayAlbumOverlay .imageOverlayAlbumTextAlbum
+            {
+                margin-top: 5px;
+                color: rgb(255,255,255);
+                width: 110px;
+                height: 20px;
+                white-space: nowrap;
+                overflow: hidden;
+            }
+
+            /* text line 2 */
+            .imageOverlayAlbum .imageOverlayAlbumOverlay .imageOverlayAlbumTextArtist
+            {
+                color: rgba(255,255,255,0.49);
+                width: 110px;
+                height: 20px;
+                white-space: nowrap;
+                overflow: hidden;
+            }
