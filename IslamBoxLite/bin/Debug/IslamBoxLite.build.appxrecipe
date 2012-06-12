@@ -9,7 +9,7 @@
   <ItemGroup>
     <AppXManifest Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
-      <Modified>2012-05-25T12:05:42.930</Modified>
+      <Modified>2012-06-05T11:23:50.398</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -21,13 +21,49 @@
       <PackagePath>css\homePage.css</PackagePath>
       <Modified>2012-05-25T11:59:22.476</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\default.html">
-      <PackagePath>default.html</PackagePath>
-      <Modified>2012-05-25T11:31:42.810</Modified>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\css\mediajs\mediaelementplayer.css">
+      <PackagePath>css\mediajs\mediaelementplayer.css</PackagePath>
+      <Modified>2012-06-05T11:10:22.409</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\html\homePage.html">
-      <PackagePath>html\homePage.html</PackagePath>
-      <Modified>2012-05-29T08:59:49.589</Modified>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\css\mediajs\mejs-skins.css">
+      <PackagePath>css\mediajs\mejs-skins.css</PackagePath>
+      <Modified>2012-06-05T11:10:22.488</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\js\mediajs\mediaelementplayer.css">
+      <PackagePath>js\mediajs\mediaelementplayer.css</PackagePath>
+      <Modified>2012-06-05T11:09:57.523</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\js\mediajs\mediaelementplayer.min.css">
+      <PackagePath>js\mediajs\mediaelementplayer.min.css</PackagePath>
+      <Modified>2012-06-05T11:09:58.228</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\js\mediajs\mejs-skins.css">
+      <PackagePath>js\mediajs\mejs-skins.css</PackagePath>
+      <Modified>2012-06-05T11:09:58.385</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\css\mediajs\background.png">
+      <PackagePath>css\mediajs\background.png</PackagePath>
+      <Modified>2012-06-05T11:10:21.936</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\css\mediajs\bigplay.png">
+      <PackagePath>css\mediajs\bigplay.png</PackagePath>
+      <Modified>2012-06-05T11:10:21.983</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\css\mediajs\controls-ted.png">
+      <PackagePath>css\mediajs\controls-ted.png</PackagePath>
+      <Modified>2012-06-05T11:10:22.022</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\css\mediajs\controls-wmp-bg.png">
+      <PackagePath>css\mediajs\controls-wmp-bg.png</PackagePath>
+      <Modified>2012-06-05T11:10:22.069</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\css\mediajs\controls-wmp.png">
+      <PackagePath>css\mediajs\controls-wmp.png</PackagePath>
+      <Modified>2012-06-05T11:10:22.116</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\css\mediajs\controls.png">
+      <PackagePath>css\mediajs\controls.png</PackagePath>
+      <Modified>2012-06-05T11:10:22.250</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
@@ -45,6 +81,46 @@
       <PackagePath>images\storelogo.png</PackagePath>
       <Modified>2012-02-14T03:25:26.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\js\mediajs\background.png">
+      <PackagePath>js\mediajs\background.png</PackagePath>
+      <Modified>2012-06-05T11:09:54.869</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\js\mediajs\bigplay.png">
+      <PackagePath>js\mediajs\bigplay.png</PackagePath>
+      <Modified>2012-06-05T11:09:54.901</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\js\mediajs\controls-ted.png">
+      <PackagePath>js\mediajs\controls-ted.png</PackagePath>
+      <Modified>2012-06-05T11:09:54.932</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\js\mediajs\controls-wmp-bg.png">
+      <PackagePath>js\mediajs\controls-wmp-bg.png</PackagePath>
+      <Modified>2012-06-05T11:09:54.964</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\js\mediajs\controls-wmp.png">
+      <PackagePath>js\mediajs\controls-wmp.png</PackagePath>
+      <Modified>2012-06-05T11:09:54.994</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\js\mediajs\controls.png">
+      <PackagePath>js\mediajs\controls.png</PackagePath>
+      <Modified>2012-06-05T11:09:55.033</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\css\mediajs\loading.gif">
+      <PackagePath>css\mediajs\loading.gif</PackagePath>
+      <Modified>2012-06-05T11:10:22.330</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\js\mediajs\loading.gif">
+      <PackagePath>js\mediajs\loading.gif</PackagePath>
+      <Modified>2012-06-05T11:09:56.672</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2012-05-25T11:31:42.810</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\html\homePage.html">
+      <PackagePath>html\homePage.html</PackagePath>
+      <Modified>2012-06-05T11:25:51.976</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\js\data.js">
       <PackagePath>js\data.js</PackagePath>
       <Modified>2012-05-28T08:30:54.481</Modified>
@@ -53,17 +129,53 @@
       <PackagePath>js\default.js</PackagePath>
       <Modified>2012-05-25T11:31:42.666</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\js\mediajs\jquery.js">
+      <PackagePath>js\mediajs\jquery.js</PackagePath>
+      <Modified>2012-06-05T11:09:56.549</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\js\mediajs\mediaelement-and-player.js">
+      <PackagePath>js\mediajs\mediaelement-and-player.js</PackagePath>
+      <Modified>2012-06-05T11:09:56.937</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\js\mediajs\mediaelement-and-player.min.js">
+      <PackagePath>js\mediajs\mediaelement-and-player.min.js</PackagePath>
+      <Modified>2012-06-05T11:09:57.143</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\js\mediajs\mediaelement.js">
+      <PackagePath>js\mediajs\mediaelement.js</PackagePath>
+      <Modified>2012-06-05T11:24:20.886</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\js\mediajs\mediaelement.min.js">
+      <PackagePath>js\mediajs\mediaelement.min.js</PackagePath>
+      <Modified>2012-06-05T11:09:57.436</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\js\mediajs\mediaelementplayer.js">
+      <PackagePath>js\mediajs\mediaelementplayer.js</PackagePath>
+      <Modified>2012-06-05T11:09:57.708</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\js\mediajs\mediaelementplayer.min.js">
+      <PackagePath>js\mediajs\mediaelementplayer.min.js</PackagePath>
+      <Modified>2012-06-05T11:09:58.338</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\js\navigator.js">
       <PackagePath>js\navigator.js</PackagePath>
       <Modified>2012-05-25T11:31:42.961</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\js\homePage.js">
       <PackagePath>js\homePage.js</PackagePath>
-      <Modified>2012-05-25T11:31:42.963</Modified>
+      <Modified>2012-06-05T11:26:13.605</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\js\mediajs\flashmediaelement.swf">
+      <PackagePath>js\mediajs\flashmediaelement.swf</PackagePath>
+      <Modified>2012-06-05T11:09:55.102</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\js\mediajs\silverlightmediaelement.xap">
+      <PackagePath>js\mediajs\silverlightmediaelement.xap</PackagePath>
+      <Modified>2012-06-05T11:09:58.512</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\najam\Documents\Visual Studio 11\Projects\IslamBoxLite\IslamBoxLite\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2012-05-25T12:05:42.762</Modified>
+      <Modified>2012-06-05T11:23:47.970</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

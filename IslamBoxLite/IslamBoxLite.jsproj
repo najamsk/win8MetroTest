@@ -53,6 +53,15 @@
     </AppxManifest>
     <Content Include="css\default.css" />
     <Content Include="css\homePage.css" />
+    <Content Include="css\mediajs\background.png" />
+    <Content Include="css\mediajs\bigplay.png" />
+    <Content Include="css\mediajs\controls-ted.png" />
+    <Content Include="css\mediajs\controls-wmp-bg.png" />
+    <Content Include="css\mediajs\controls-wmp.png" />
+    <Content Include="css\mediajs\controls.png" />
+    <Content Include="css\mediajs\loading.gif" />
+    <Content Include="css\mediajs\mediaelementplayer.css" />
+    <Content Include="css\mediajs\mejs-skins.css" />
     <Content Include="default.html" />
     <Content Include="html\homePage.html" />
     <Content Include="images\logo.png" />
@@ -62,6 +71,25 @@
     <None Include="IslamBoxLite_TemporaryKey.pfx" />
     <Content Include="js\data.js" />
     <Content Include="js\default.js" />
+    <Content Include="js\mediajs\background.png" />
+    <Content Include="js\mediajs\bigplay.png" />
+    <Content Include="js\mediajs\controls-ted.png" />
+    <Content Include="js\mediajs\controls-wmp-bg.png" />
+    <Content Include="js\mediajs\controls-wmp.png" />
+    <Content Include="js\mediajs\controls.png" />
+    <Content Include="js\mediajs\flashmediaelement.swf" />
+    <Content Include="js\mediajs\jquery.js" />
+    <Content Include="js\mediajs\loading.gif" />
+    <Content Include="js\mediajs\mediaelement-and-player.js" />
+    <Content Include="js\mediajs\mediaelement-and-player.min.js" />
+    <Content Include="js\mediajs\mediaelement.js" />
+    <Content Include="js\mediajs\mediaelement.min.js" />
+    <Content Include="js\mediajs\mediaelementplayer.css" />
+    <Content Include="js\mediajs\mediaelementplayer.js" />
+    <Content Include="js\mediajs\mediaelementplayer.min.css" />
+    <Content Include="js\mediajs\mediaelementplayer.min.js" />
+    <Content Include="js\mediajs\mejs-skins.css" />
+    <Content Include="js\mediajs\silverlightmediaelement.xap" />
     <Content Include="js\navigator.js" />
     <Content Include="js\homePage.js" />
   </ItemGroup>

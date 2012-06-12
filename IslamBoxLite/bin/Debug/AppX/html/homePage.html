@@ -9,8 +9,10 @@
     <script src="//Microsoft.WinJS.0.6/js/base.js"></script>
     <script src="//Microsoft.WinJS.0.6/js/ui.js"></script>
     <script type="text/javascript" src="/js/data.js"></script>
+    <script src="/js/mediajs/mediaelement.js"></script>
     <link href="/css/default.css" rel="stylesheet">
     <link href="/css/homePage.css" rel="stylesheet">
+    <link rel="stylesheet" href="/js/mediajs/mediaelementplayer.min.css" />
     <script src="/js/homePage.js"></script>
     <style>
         .homepage {
@@ -120,13 +122,26 @@
             </div>
 
             <h2>video</h2>
-            <video src="http://ib7.islambox.tv/live/peacetv.stream" controls autoplay></video>
-            <video width="480" height="270" controls="" poster="http://content.bitsontherun.com/thumbs/nfSyO85Q-320.jpg">
+            <!--rtmp://ib7.islambox.tv/live/peacetv.stream-->
+           
+            <!--<video width="480" height="270" controls="" poster="http://content.bitsontherun.com/thumbs/nfSyO85Q-320.jpg">
                 <source src="http://ib7.islambox.tv/live/aljazeeraeng.stream/playlist.m3u8" type="application/vnd.apple.mpegurl">
                 
                 <source src="http://ib7.islambox.tv/live/aljazeeraeng.stream/playlist.m3u8" type="video/mp4">
+                
+
                 <p class="warning">Your browser does not support HTML5 video.</p>
-            </video>
+            </video>-->
+
+
+            <video width="460" height="200" id="player1" src="rtmp://ib7.islambox.tv/live/peacetv.stream" autoplay="true" type="video/flv" controls="controls"></video>
+
+<input type="button" id="pp" value="toggle" />
+<span id="time"></span>
+	
+<script>
+   
+</script>
         </section>
     </div>
 </body>
